@@ -2,7 +2,7 @@
 
 <img width="500" height="200" alt="imgg" src="https://github.com/user-attachments/assets/bd9889a8-8761-4e2b-8333-79f88468429a" />
 
-A skill that turns a product changelog into **build-in-public posts**, and, just as
+A multi-hook styles supported skill that turns a product changelog into **build-in-public posts**, and, just as
 importantly, tells you what *not* to publish.
 
 It exists to counter the default instinct to "document everything" and post daily. The
