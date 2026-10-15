@@ -215,5 +215,5 @@ cause. Most fixes still stay private; this one earns its post.
 - The core rule and its framing are adapted from a note by **Suprava Sabat**
   ([@Suprva02](https://x.com/Suprva02)) on the risks of building a business in public
   (quoted in full above).
-- The changelog method in this skill is adapted from the **changelog-report** skill,
+- The changelog method in this skill is adapted from the **changelog-report** skill in ([@Sarvam AI](https://x.com/SarvamAI))
   which inspired this workflow.
