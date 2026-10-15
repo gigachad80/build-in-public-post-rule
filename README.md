@@ -232,10 +232,11 @@ rule** about whether to post at all, and what to keep back.
 | **vindicatenyc/build-in-public-plugin** | Generating posts from coding sessions | Claude Code users who want session-based updates | A plugin with hooks and scripts that auto-tracks sessions and drafts posts |
 | **JayantChopra/stanley-mcp-playground `build-in-public`** | GitHub activity into posts through an MCP | Users who already run the Stanley MCP | MCP-driven flow that drafts per platform and can schedule into slots |
 
-Sources: the public listings for [alinaqi/maggy](https://github.com/alinaqi/maggy),
-[jeromeetienne/skillmd_collection](https://github.com/jeromeetienne/skillmd_collection),
-[vindicatenyc/build-in-public-plugin](https://github.com/vindicatenyc/build-in-public-plugin),
-and [JayantChopra/stanley-mcp-playground](https://github.com/JayantChopra/stanley-mcp-playground).
+Sources: the public listings for 
+- [alinaqi/maggy](https://github.com/alinaqi/maggy),
+- [jeromeetienne/skillmd_collection](https://github.com/jeromeetienne/skillmd_collection),
+- [vindicatenyc/build-in-public-plugin](https://github.com/vindicatenyc/build-in-public-plugin),
+- and [JayantChopra/stanley-mcp-playground](https://github.com/JayantChopra/stanley-mcp-playground).
 
 ### Which one should you choose
 
