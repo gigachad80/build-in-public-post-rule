@@ -282,5 +282,4 @@ the `name:` field in the SKILL.md frontmatter (`build-in-public-post-rule`) for 
   ([@Suprva02](https://x.com/Suprva02)) on the risks of building a business in public,
   quoted in full inside `SKILL.md`. See the
   [original post on X](https://x.com/Suprva02/status/2103794798390108391).
-- The changelog method is adapted from the **changelog-report** skill, which inspired this
-  workflow.
+- The changelog method is adapted from the **changelog-report** skill by ([@Sarvam AI](https://x.com/SarvamAI))which inspired this workflow.
