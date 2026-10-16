@@ -204,23 +204,23 @@ messy desk turning clean.
 
 > **Title:** Translated replies no longer disappear from chat
 > **Contributors:** by contributor · #955
-> **Details:** Translated replies in Indian languages were silently
+> **Details:** Translated replies were silently
 > disappearing from chat. The text now streams correctly on every turn and
 > survives a reload, on web and mobile.
 
 **Finished post (from Step 3):**
 
 - **Hook (Relatable):** "Our users watched their own messages vanish. We fixed
-  it — here's why it happened."
-- **Body:** For weeks, replies translated into Indian languages were
+  it, here's why it happened."
+- **Body:** For weeks, replies translated into other languages were
   disappearing mid-chat. It came down to a race between the translation stream
-  and the message store — the store kept winning. We reordered it so the text
+  and the message store, the store kept winning. We reordered it so the text
   lands before the screen clears, and it now holds on every turn and survives a
   reload, on web and mobile.
-- **Visual:** A before/after screen recording — the message vanishing, then
+- **Visual:** A before/after screen recording, the message vanishing, then
   staying. Caption card in one bold accent colour.
-- **CTA:** "Building for Indian-language users? We wrote up how we handled
-  streaming translation — link in the comments."
+- **CTA:** "Building for a multilingual audience? We wrote up how we handled
+  streaming translation, link in the comments."
 
 Note: this is a **Fixed** entry, which the table marks "rarely". It clears the
 share test because the story travels — a user-visible failure with a clean
